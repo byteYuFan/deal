@@ -1,0 +1,3 @@
+D:/item/big-innovate/process/second_1019/data_deal/cmake-build-debug/CMakeFiles/data_deal.dir
+D:/item/big-innovate/process/second_1019/data_deal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/item/big-innovate/process/second_1019/data_deal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

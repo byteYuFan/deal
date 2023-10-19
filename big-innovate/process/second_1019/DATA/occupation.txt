@@ -1,0 +1,21 @@
+0: Other or unspecified
+1: Scholar/Educator
+2: Artist
+3: Clerk/Administrator
+4: College Student/Graduate Student
+5: Service Industry
+6: Medical/Healthcare
+7: Executive/Manager
+8: Farmer
+9: Homemaker
+10: Elementary/Secondary School Student
+11: Lawyer
+12: Programmer
+13: Retiree
+14: Sales/Marketing
+15: Scientist
+16: Entrepreneur
+17: Technician/Engineer
+18: Business Owner/Craftsman
+19: Unemployed
+20: Writer
